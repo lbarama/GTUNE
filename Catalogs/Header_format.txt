@@ -1,0 +1,1 @@
+GTUNE_evid    Date(GMT)   Origin_Time(GMT)  Berg_ID_No.  Country  Region  Source  Lat         Long          mb    Ms   Depth(km)  Yield_lower  Yield_upper  Purpose    Type      Name                               No.Blast/F?  FSU  LLNL  LASA
