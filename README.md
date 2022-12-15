@@ -1,3 +1,5 @@
+# ** Update December 2022, zenodo link to be repaired: doi: 10.5281/zenodo.7026463 **#
+
 # INSTRUCTIONS FOR GTUNE DATA REPOSITORY: 
  (Header information included for all catalogs and datasets)
 
